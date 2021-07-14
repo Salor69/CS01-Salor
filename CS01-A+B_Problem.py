@@ -1,3 +1,3 @@
-A = 5
-B = 4
+A =  int(input())
+B = int(input())
 print(A+B)
